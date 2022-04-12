@@ -12,4 +12,4 @@ hello zay! hello git!
 hello zay! hello git!
 hello zay! hello git!
 hello zay! hello git! master test
-hello zay! hello git!
+hello zay! hello git!  hot-fix test
